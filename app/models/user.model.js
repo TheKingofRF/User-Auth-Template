@@ -13,4 +13,4 @@ const User = mongoose.model(
         ]
     })
     );
-mondule.exports = User;
+module.exports = User;
